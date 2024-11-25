@@ -1,0 +1,27 @@
+{
+	"id": "7ce442af-948c-ef11-8473-000d3ad94455",
+	"createdAt": "2024-10-17T14:32:51.503Z",
+	"createdBy": "karolina.wochnik@neptune-software.com",
+	"globalScripts": [],
+	"externalModules": [],
+	"entitySets": [
+		{
+			"id": "B9C6ED35-948C-EF11-8473-000D3AD94455",
+			"name": "forms_data_kw",
+			"contextname": "forms_data_kw"
+		}
+	],
+	"apis": [],
+	"name": "saveLog",
+	"ver": "24.10.17.1433",
+	"description": null,
+	"folder": "",
+	"content": "file:///content.js",
+	"useAsGlobalScript": false,
+	"transpiledContent": null,
+	"lastRunSuccessful": false,
+	"isTypescript": false,
+	"language": "javascript",
+	"jsscriptGroup": "fa38728a-948c-ef11-8473-000d3ad94455",
+	"package": "cef76af7-738c-ef11-8473-000d3ad94455"
+}

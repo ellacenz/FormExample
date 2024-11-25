@@ -1,0 +1,32 @@
+{
+	"id": "a3bb0349-cd92-ef11-8473-000d3ad7ae94",
+	"createdAt": "2024-10-25T12:33:15.413Z",
+	"createdBy": "karolina.wochnik@neptune-software.com",
+	"globalScripts": [],
+	"externalModules": [],
+	"entitySets": [
+		{
+			"id": "4A9E3232-70E5-4F49-9B63-4104044F5642",
+			"name": "forms_group",
+			"contextname": "forms_group"
+		},
+		{
+			"id": "78F60BAE-E2CA-4D4A-AE6E-170AC0F67296",
+			"name": "forms_subgroup",
+			"contextname": "forms_subgroup"
+		}
+	],
+	"apis": [],
+	"name": "getClassificationList",
+	"ver": "24.10.25.1311",
+	"description": null,
+	"folder": "",
+	"content": "file:///content.js",
+	"useAsGlobalScript": false,
+	"transpiledContent": null,
+	"lastRunSuccessful": true,
+	"isTypescript": false,
+	"language": "javascript",
+	"jsscriptGroup": "fa38728a-948c-ef11-8473-000d3ad94455",
+	"package": "cef76af7-738c-ef11-8473-000d3ad94455"
+}

@@ -1,0 +1,27 @@
+{
+	"id": "47371f4a-d692-ef11-8473-000d3ad7ae94",
+	"createdAt": "2024-10-25T13:37:34.620Z",
+	"createdBy": "karolina.wochnik@neptune-software.com",
+	"globalScripts": [],
+	"externalModules": [],
+	"entitySets": [
+		{
+			"id": "29F811FE-1310-4769-A00F-C27CD73D7F21",
+			"name": "forms_design",
+			"contextname": "forms_design"
+		}
+	],
+	"apis": [],
+	"name": "getRequestedFormBySubClass",
+	"ver": "24.10.25.1450",
+	"description": null,
+	"folder": "",
+	"content": "file:///content.js",
+	"useAsGlobalScript": false,
+	"transpiledContent": null,
+	"lastRunSuccessful": true,
+	"isTypescript": false,
+	"language": "javascript",
+	"jsscriptGroup": "fa38728a-948c-ef11-8473-000d3ad94455",
+	"package": "cef76af7-738c-ef11-8473-000d3ad94455"
+}

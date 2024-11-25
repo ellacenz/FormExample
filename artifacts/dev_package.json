@@ -1,0 +1,115 @@
+{
+	"id": "cef76af7-738c-ef11-8473-000d3ad94455",
+	"createdAt": "2024-10-17T10:38:38.200Z",
+	"createdBy": "karolina.wochnik@neptune-software.com",
+	"git": {
+		"remote": "https://github.com/ellacenz/FormExample"
+	},
+	"name": "KW_FORMS",
+	"description": "Forms potential / example",
+	"ver": "24.11.25.0910",
+	"enableCICD": true,
+	"apps": [
+		{
+			"id": "d3ed3644-748c-ef11-8473-000d3ad94455",
+			"application": "kw_forms_application",
+			"title": "",
+			"description": "",
+			"package": {
+				"id": "CEF76AF7-738C-EF11-8473-000D3AD94455"
+			}
+		},
+		{
+			"id": "80700c3c-cc92-ef11-8473-000d3ad7ae94",
+			"application": "kw_forms_lp_app",
+			"title": "",
+			"description": "",
+			"package": {
+				"id": "CEF76AF7-738C-EF11-8473-000D3AD94455"
+			}
+		},
+		{
+			"id": "42d544ff-738c-ef11-8473-000d3ad94455",
+			"application": "kw_neptune_forms",
+			"title": "Neptune FORMS",
+			"description": "Neptune FORMS",
+			"package": {
+				"id": "CEF76AF7-738C-EF11-8473-000D3AD94455"
+			}
+		}
+	],
+	"api": [
+		{
+			"id": "c2147cb7-d092-ef11-8473-000d3ad7ae94",
+			"name": "KW_forms",
+			"description": null,
+			"apiGroup": null
+		}
+	],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [
+		{
+			"id": "b9c6ed35-948c-ef11-8473-000d3ad94455",
+			"name": "forms_data_kw",
+			"description": "FORMS: Data KW test"
+		}
+	],
+	"jsclass": [
+		{
+			"id": "a3bb0349-cd92-ef11-8473-000d3ad7ae94",
+			"name": "getClassificationList",
+			"description": null
+		},
+		{
+			"id": "7ce442af-948c-ef11-8473-000d3ad94455",
+			"name": "saveLog",
+			"description": null
+		},
+		{
+			"id": "5c9bc1d4-948c-ef11-8473-000d3ad94455",
+			"name": "getLog",
+			"description": null
+		},
+		{
+			"id": "47371f4a-d692-ef11-8473-000d3ad7ae94",
+			"name": "getRequestedFormBySubClass",
+			"description": null
+		}
+	],
+	"jsscript_group": [
+		{
+			"id": "fa38728a-948c-ef11-8473-000d3ad94455",
+			"name": "KW_forms_test",
+			"description": ""
+		}
+	],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [
+		{
+			"id": "66d75175-e192-ef11-8473-000d3ad7ae94",
+			"name": "KW_Forms_Example",
+			"description": null
+		}
+	],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": []
+}

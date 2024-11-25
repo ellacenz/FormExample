@@ -1,0 +1,57 @@
+{
+	"id": "b9c6ed35-948c-ef11-8473-000d3ad94455",
+	"createdAt": "2024-10-17T14:29:30.760Z",
+	"createdBy": "karolina.wochnik@neptune-software.com",
+	"fields": [
+		{
+			"id": "80b4acea-5247-47ea-f724-cd0e254a8be5",
+			"fieldName": "formid",
+			"fieldType": "smalltext",
+			"isUnique": false,
+			"description": "FORM ID",
+			"isNullable": true
+		},
+		{
+			"id": "89cd1b3f-49cf-4c99-96fa-fcac397c6830",
+			"fieldName": "sessionid",
+			"fieldType": "smalltext",
+			"isUnique": false,
+			"description": "Session ID",
+			"isNullable": true
+		},
+		{
+			"id": "5381baf3-5ce0-4a29-8c09-e6644a46f155",
+			"fieldName": "completed",
+			"fieldType": "boolean",
+			"isUnique": false,
+			"description": "Status: Completed",
+			"isNullable": true
+		},
+		{
+			"id": "31fa3003-7b38-4267-a326-41ea6a952be6",
+			"fieldName": "valid",
+			"fieldType": "boolean",
+			"isUnique": false,
+			"description": "Status: Valid",
+			"isNullable": true
+		},
+		{
+			"id": "5f795bbd-3b7b-44ac-98e6-d104d3b52f68",
+			"fieldName": "data",
+			"fieldType": "json",
+			"isUnique": false,
+			"description": "FORM Data",
+			"isNullable": true
+		}
+	],
+	"indices": [],
+	"foreignKeys": [],
+	"name": "forms_data_kw",
+	"description": "FORMS: Data KW test",
+	"ver": "24.10.17.1429",
+	"enableAudit": false,
+	"includeDataInPackage": false,
+	"package": "cef76af7-738c-ef11-8473-000d3ad94455",
+	"rolesRead": [],
+	"rolesWrite": []
+}
